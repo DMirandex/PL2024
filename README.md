@@ -1,4 +1,4 @@
-<h3 align="center">PL2024</h3>
+# PL2024
 
 <h3 align="center">Licenciatura em Engenharia Informática <br> Trabalhos de casa de Processamento de Linguagens <br> 2023/2024 </h3>
 
