@@ -1,8 +1,14 @@
-# PL2024
-
-<h3 align="center">Licenciatura em Engenharia Informática <br> Trabalhos de casa de Processamento de Linguagens <br> 2023/2024 </h3>
+# TPC1: Análise de um dataset
 
 ## Aluno
 - Nome: Diogo Gabriel Lopes Miranda
 * Número Aluno: A100839
 + E-mail: a100839@alunos.uminho.pt
+
+  ##Descrição
+  Este programa lê um csv CSV diretamente, dividindo as linhas por vírgulas e processando os dados, para realizar as estatisticas pretendidas.
+
+  Sendo elas:
+  -Lista ordenada alfabeticamente das modalidades desportivas;
+  -Percentagens de atletas aptos e inaptos para a prática desportiva;
+  -Distribuição de atletas por escalão etário (escalão = intervalo de 5 anos): ... [30-34], [35-39],... 
