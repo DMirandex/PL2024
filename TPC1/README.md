@@ -6,7 +6,7 @@
 + E-mail: a100839@alunos.uminho.pt
 
   ## Descrição
-  Este programa lê um csv CSV diretamente, dividindo as linhas por vírgulas e processando os dados, para realizar as estatisticas pretendidas.
+  Este programa lê um csv CSV diretamente, dividindo as linhas por vírgulas e processa os dados, de modo a realizar as estatisticas pretendidas.
 
   Sendo elas:
   - 1: Lista ordenada alfabeticamente das modalidades desportivas;
